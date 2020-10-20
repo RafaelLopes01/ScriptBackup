@@ -1,7 +1,7 @@
 ##############################################
 #                                            #
 #  Sistema de backup em HD Externo           #
-#  Criado por: Rafael Alves                  #
+#  Criado por: Rafael A. L. Alves            #
 #                                            #
 ##############################################
 

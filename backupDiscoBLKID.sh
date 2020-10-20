@@ -1,7 +1,7 @@
 #!/bin/bash
 #####################################
 #####           BACKUP          #####
-#####        RAFAEL ALVES       #####
+#####     RAFAEL A. L. ALVES    #####
 #####################################
 
 # DEFININDO VARIAVEIS
